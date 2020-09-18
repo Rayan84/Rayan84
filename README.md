@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ### Technical Stats:
-![Rayan's github stats](https://github-readme-stats.vercel.app/api?username=Rayan84&show_icons=true&theme=radical&?count_private=true&show_icons=true)
+![Rayan's github stats](https://github-readme-stats.vercel.app/api?username=Rayan84&show_icons=true&theme=merko&?count_private=true&show_icons=true)
 
