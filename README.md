@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 ### A few Certificates 😄:
 <img src='./media/udemy.jpg'>
 <img src='./media/code-institiute.png'>
+<img src='./media/microverse.png'>
 
 
 
